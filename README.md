@@ -1,6 +1,7 @@
 # ED.03.01 - Spark Standalone
 
-Analisis de acciones bursatiles con Apache Spark (PySpark) usando RDDs en modo local. Autor: Gustavo Adalid Catalan Carmen.
+Analisis de acciones bursatiles con Apache Spark (PySpark) usando RDDs en modo local.
+Alumno: Gustavo Adalid Catalan Carmen
 
 ## Contenido
 
